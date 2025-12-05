@@ -1,2 +1,3 @@
 Git practice session
 added this at remote
+adde at remote 2
