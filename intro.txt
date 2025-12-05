@@ -1,2 +1,4 @@
 Git practice session
 added this at remote
+
+added ate local
